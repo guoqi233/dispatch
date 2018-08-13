@@ -1,0 +1,1 @@
+twistd --nodaemon --python run.py
